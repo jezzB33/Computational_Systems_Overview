@@ -10,15 +10,14 @@ Brief Descriptions and Connections between Sub-topics
 Each sub-topic within computational systems has its unique applications, methodologies, and contributions to the field. For 
 
 ## brief introductions to these topics and their interconnections, visit the individual repositories linked below:
-
-Language Design
-Compiler Development
-Parser Generators
-Static Analysis
-Programming Analysis
-SAT Solver Systems
-Applications of SAT Systems
-Problem Modelling and Solution Interpretation Tools
+- [Language Design](https://github.com/jezzB33/Language_Design)
+- [Compiler Development](https://github.com/jezzB33/Compiler_Development)
+- [Parser Generators](https://github.com/jezzB33/Parser_Generators_Systems)
+- [Static Analysis](https://github.com/jezzB33/Static_Analysis_Systems)
+- [Programming Analysis](https://github.com/jezzB33/Programming_Analysis_Systems)
+- [SAT Solver Systems](https://github.com/jezzB33/SAT_Solver_Systems)
+- [Applications of SAT Systems](https://github.com/jezzB33/Applications_of_SAT_Systems)
+- [Problem Modelling and Solution Interpretation Tools](https://github.com/jezzB33/Problem_Modelling_and_Solution_Interpretation_Tools)
 
 Links to Individual Repositories and Intersection Master Repository
 
